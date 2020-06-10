@@ -42,6 +42,17 @@ System.out.println("Hello to see U!");
 
     > ERNIE (Baidu) 
     > <details>
+    > <summary>Detials</summary>
+    > <p> - 测试 测试测试</p>
+    > <pre>
+    > **K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters**. ICM L2020. [pdf](https://arxiv.org/pdf/2002.01808.pdf) 
+    > </pre>
+    > </details>
+    > <br />
+
+5. **K-BERT: Enabling Language Representation with Knowledge Graph**. AAAI 2020. [pdf](https://arxiv.org/pdf/1909.07606.pdf), [code](https://github.com/autoliuweijie/K-BERT)
+
+    > <details>
 <summary>Detials</summary>
 <p> - 测试 测试测试</p>
 <pre>
@@ -49,8 +60,6 @@ System.out.println("Hello to see U!");
 </pre>
 </details>
 <br />
-
-5. **K-BERT: Enabling Language Representation with Knowledge Graph**. AAAI 2020. [pdf](https://arxiv.org/pdf/1909.07606.pdf), [code](https://github.com/autoliuweijie/K-BERT)
 
 
 6. **ERNIE 2.0: A Continual Pre-training Framework for Language Understanding**. AAAI 2020. [pdf](https://arxiv.org/pdf/1907.12412v1.pdf), [code](https://github.com/PaddlePaddle/ERNIE/blob/develop/README.md)
