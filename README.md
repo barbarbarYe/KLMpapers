@@ -5,11 +5,9 @@ Contributed by **Chuanzhi Zhuang**  and **[Ningyu Zhang](https://zxlzr.github.io
 Edited by **Ganqiang Ye**.
 
  
-<details>
-<summary>
 1. **Knowledge Enhanced Contextual Word Representations**. *Peters, Matthew E. Neumann, Mark*. EMNLP 2019.[pdf](https://arxiv.org/pdf/1909.04164.pdf) [code](https://github.com/allenai/kb)
-
-</summary>
+<details>
+<summary>Details</summary>
 <pre><code>
 System.out.println("Hello to see U!");
 </code></pre>
