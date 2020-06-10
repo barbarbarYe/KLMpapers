@@ -5,15 +5,24 @@ Contributed by **Chuanzhi Zhuang**  and **[Ningyu Zhang](https://zxlzr.github.io
 Edited by **Ganqiang Ye**.
 
  
-1. **Knowledge Enhanced Contextual Word Representations**. *Peters, Matthew E. Neumann, Mark*. EMNLP 2019.[pdf](https://arxiv.org/pdf/1909.04164.pdf) [code](https://github.com/allenai/kb)
+1. **Knowledge Enhanced Contextual Word Representations**. *Peters, Matthew E. Neumann, Mark*. EMNLP 2019. [pdf](https://arxiv.org/pdf/1909.04164.pdf) [code](https://github.com/allenai/kb)
 <details>
-<summary>1. **Knowledge Enhanced Contextual Word Representations**. *Peters, Matthew E. Neumann, Mark*. EMNLP 2019.[pdf](https://arxiv.org/pdf/1909.04164.pdf) [code](https://github.com/allenai/kb)</summary>
+<summary>Detials</summary>
 <pre><code>
 System.out.println("Hello to see U!");
 </code></pre>
 </details>
+<br />
 
-2. **K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters**.ICML2020[pdf](https://arxiv.org/pdf/2002.01808.pdf) 
+2. **K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters**. ICM L2020. [pdf](https://arxiv.org/pdf/2002.01808.pdf) 
+<details>
+<summary>Detials</summary>
+<pre>
+    **K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters**. ICM L2020. [pdf](https://arxiv.org/pdf/2002.01808.pdf) 
+</pre>
+</details>
+<br />
+
 3. **ERNIE: Enhanced Language Representation with Informative Entities**Zhengyan Zhang, Xu Han, Zhiyuan Liu, Xin Jiang, Maosong Sun and Qun Liu. ACL 2019. [pdf](https://www.aclweb.org/anthology/P19-1139) [code & model](https://github.com/thunlp/ERNIE) (ERNIE (Tsinghua) )
 4. **ERNIE: Enhanced Representation through Knowledge Integration**.ACL2019[pdf](https://arxiv.org/pdf/1904.09223.pdf) [code](https://github.com/PaddlePaddle/ERNIE/tree/develop/ERNIE) (ERNIE (Baidu) )
 5. **K-BERT: Enabling Language Representation with Knowledge Graph**.AAAI2020 [pdf](https://arxiv.org/pdf/1909.07606.pdf),[code](https://github.com/autoliuweijie/K-BERT)
@@ -25,5 +34,6 @@ System.out.println("Hello to see U!");
 11. **Informing Unsupervised Pretraining with External Linguistic Knowledge**. [pdf](https://arxiv.org/pdf/1909.02339.pdf)
 12. **SpanBERT: Improving Pre-training by Representing
     and Predicting Spans**.[pdf](https://arxiv.org/pdf/1907.10529.pdf),[code&models](https://github.com/facebookresearch/SpanBERT)
+ 
  
  
