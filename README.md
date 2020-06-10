@@ -15,13 +15,16 @@ System.out.println("Hello to see U!");
 <br />
 
 2. **K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters**. ICM L2020. [pdf](https://arxiv.org/pdf/2002.01808.pdf) 
+
+    > DistMult is based on the bilinear model where each relation is represented by a diagonal rather than a full matrix. DistMult enjoys the same scalable property as TransE and it achieves superior performance over TransE.
 <details>
 <summary>Detials</summary>
+<p> - 测试 测试测试</p>
 <pre>
     **K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters**. ICM L2020. [pdf](https://arxiv.org/pdf/2002.01808.pdf) 
 </pre>
 </details>
-<br />
+
 
 3. **ERNIE: Enhanced Language Representation with Informative Entities**Zhengyan Zhang, Xu Han, Zhiyuan Liu, Xin Jiang, Maosong Sun and Qun Liu. ACL 2019. [pdf](https://www.aclweb.org/anthology/P19-1139) [code & model](https://github.com/thunlp/ERNIE) (ERNIE (Tsinghua) )
 4. **ERNIE: Enhanced Representation through Knowledge Integration**.ACL2019[pdf](https://arxiv.org/pdf/1904.09223.pdf) [code](https://github.com/PaddlePaddle/ERNIE/tree/develop/ERNIE) (ERNIE (Baidu) )
@@ -34,6 +37,5 @@ System.out.println("Hello to see U!");
 11. **Informing Unsupervised Pretraining with External Linguistic Knowledge**. [pdf](https://arxiv.org/pdf/1909.02339.pdf)
 12. **SpanBERT: Improving Pre-training by Representing
     and Predicting Spans**.[pdf](https://arxiv.org/pdf/1907.10529.pdf),[code&models](https://github.com/facebookresearch/SpanBERT)
- 
  
  
