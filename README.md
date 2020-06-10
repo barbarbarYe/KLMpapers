@@ -6,6 +6,13 @@ Edited by **Ganqiang Ye**.
 
  
 1. **Knowledge Enhanced Contextual Word Representations**. *Peters, Matthew E. Neumann, Mark*. EMNLP 2019.[pdf](https://arxiv.org/pdf/1909.04164.pdf) [code](https://github.com/allenai/kb)
+<details>
+<summary>展开查看</summary>
+<pre><code>
+System.out.println("Hello to see U!");
+</code></pre>
+</details>
+
 2. **K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters**.ICML2020[pdf](https://arxiv.org/pdf/2002.01808.pdf) 
 3. **ERNIE: Enhanced Language Representation with Informative Entities**Zhengyan Zhang, Xu Han, Zhiyuan Liu, Xin Jiang, Maosong Sun and Qun Liu. ACL 2019. [pdf](https://www.aclweb.org/anthology/P19-1139) [code & model](https://github.com/thunlp/ERNIE) (ERNIE (Tsinghua) )
 4. **ERNIE: Enhanced Representation through Knowledge Integration**.ACL2019[pdf](https://arxiv.org/pdf/1904.09223.pdf) [code](https://github.com/PaddlePaddle/ERNIE/tree/develop/ERNIE) (ERNIE (Baidu) )
